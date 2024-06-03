@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Rome"
+      ],
+      "correctOption": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Jupiter",
+        "Mars",
+        "Venus"
+      ],
+      "correctOption": "Jupiter"
+    },
+    {
+      "id": 3,
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Mark Twain",
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald"
+      ],
+      "correctOption": "Harper Lee"
+    },
+    {
+      "id": 4,
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        "Au",
+        "Ag",
+        "Pb",
+        "Fe"
+      ],
+      "correctOption": "Au"
+    },
+    {
+      "id": 5,
+      "question": "What is the tallest mountain in the world?",
+      "options": [
+        "K2",
+        "Kangchenjunga",
+        "Mount Everest",
+        "Lhotse"
+      ],
+      "correctOption": "Mount Everest"
+    },
+    {
+      "id": 6,
+      "question": "Who is known as the 'Father of Computers'?",
+      "options": [
+        "Charles Babbage",
+        "Alan Turing",
+        "John von Neumann",
+        "Steve Jobs"
+      ],
+      "correctOption": "Charles Babbage"
+    },
+    {
+      "id": 7,
+      "question": "Which element has the atomic number 1?",
+      "options": [
+        "Helium",
+        "Oxygen",
+        "Hydrogen",
+        "Carbon"
+      ],
+      "correctOption": "Hydrogen"
+    },
+    {
+      "id": 8,
+      "question": "What is the hardest natural substance on Earth?",
+      "options": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Quartz"
+      ],
+      "correctOption": "Diamond"
+    },
+    {
+      "id": 9,
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "correctOption": "Leonardo da Vinci"
+    },
+    {
+      "id": 10,
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "correctOption": "Mars"
+    }
+  ]
+  
